@@ -1,10 +1,9 @@
 
   # assessment1
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+  Note:  Clone the repository to your local machine:   
+  git clone https://github.com/your-username/your-project.git
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+ 1.  Navigate to the project directory:  cd your-project
+2.  Install dependencies:  npm install
+3. Start the development server: npm start
